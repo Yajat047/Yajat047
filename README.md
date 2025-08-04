@@ -11,6 +11,9 @@
   <a href="https://linkedin.com/in/yajat47" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-yajat47-blue?style=flat&logo=linkedin" />
   </a>
+  <a href="https://drive.google.com/file/d/1AOsuYI3ucvsxS2j0uaHZHEpBb7Q9kxXG/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-informational?style=flat&logo=google-drive&logoColor=white&color=0A66C2" />
+  </a>
 </p>
 
 ---
