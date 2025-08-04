@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yajat Dureja</h1>
-<h3 align="center">Driven Computer Science and Engineering student | Full Stack Developer | ML Enthusiast</h3>
+<h3 align="center">Computer Science and Engineering student | Full Stack Developer | Cloud Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/Yajat047" target="_blank">
