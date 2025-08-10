@@ -58,11 +58,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yajat047&theme=onedark&title=MultiLanguage,Commits,Repositories,PullRequest,Stars,Followers,Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 📜 Certifications
 - IBM Applied DevOps Engineering  
 - Google Cybersecurity  
@@ -70,6 +65,11 @@
 - IBM AI Foundations  
 - Johns Hopkins Health Informatics  
 - University of Michigan Leading People & Teams  
+
+---
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yajat047&theme=onedark&title=MultiLanguage,Commits,Repositories,PullRequest,Stars,Followers,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
