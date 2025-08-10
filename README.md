@@ -57,7 +57,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?Yajat047=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yajat047&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
