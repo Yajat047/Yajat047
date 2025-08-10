@@ -57,6 +57,10 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?Yajat047=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 📜 Certifications
 - IBM Applied DevOps Engineering  
 - Google Cybersecurity  
