@@ -52,12 +52,14 @@
 - 🏥 [**E-Healthcare Management System**](https://github.com/Yajat047/IP-Healthcare): MERN + Python with ML for disease prediction  
 - 🛒 [**Techware Store**](https://github.com/Yajat047/fse-project): E-commerce platform using MERN & Braintree
 - 🍷 [**Wine Quality Classifier**](https://github.com/Yajat047/aiml_wine_quality): Supervised ML model for wine quality prediction
+- 🌐 [**Get Linked**](https://github.com/Yajat047/Community-Platform): MERN-based community platform for networking and collaboration
 - ☕ [**Cafe Management System**](https://github.com/Yajat047/cafemanagement): Reservation & ordering system in HTML/CSS/JS
 - 🪑 [**Spacious Furniture Marketplace**](https://github.com/Yajat047/thespacious): Marketplace app built using modern web tech
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yajat047&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yajat047&theme=onedark&title=MultiLanguage,Commits,Repositories,PullRequest,Stars,Followers,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
