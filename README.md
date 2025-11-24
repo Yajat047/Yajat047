@@ -14,7 +14,7 @@
   <a href="https://instagram.com/Yajat47" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Yajat47-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1VS16KxdO0xGCxTaWfuqnqBbPsSvt9NSw/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1xtR4Qf31IL-L7BEJ9knBmCIN1ADFUWIY/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-informational?style=flat&logo=google-drive&logoColor=white&color=0A66C2" />
   </a>
 </p>
