@@ -14,7 +14,7 @@
   <a href="https://instagram.com/Yajat47" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Yajat47-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1xtR4Qf31IL-L7BEJ9knBmCIN1ADFUWIY/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1U4nfs0osimUjGKTCC_rfKi5M5QDdCRhb/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-informational?style=flat&logo=google-drive&logoColor=white&color=0A66C2" />
   </a>
 </p>
@@ -75,6 +75,7 @@
 ---
 
 ### 🚀 Featured Projects
+- 💸 **Studexly:** Smart Student Expense Tracker for college budgeting (MERN Stack)  
 - 🏥 **E-Healthcare Management System:** Full-featured healthcare platform with ML-based disease prediction (MERN + Python ML)  
 - 🛒 **Techware Store:** E-commerce platform with authentication, payments, and order tracking (MERN Stack)  
 - 🍷 **Wine Quality Classifier:** ML model predicting wine quality using data analysis (Python, Scikit-learn)  
